@@ -3,12 +3,15 @@
 > "Talk is cheap. Show me the code."
 > -Linus Torvalds
 
-Hello, I'm Gary 😉,AKA-Gee. While my background lies in the **financial sector🏦💸👨‍💼**, I have recently embarked on a new journey as a beginner in the fields of **Development** and **Programming** 👨‍💻.
+Hello, I'm Gary 😉,AKA-Gee. 
+</br>
+While my background lies in the **financial sector🏦💸👨‍💼**, I have recently embarked on a new journey as a beginner in the fields of **Development** and **Programming** 👨‍💻.
+</br>
 I'm an open-source professional, and I like to develop in Python. I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech💰**. 
 
 Currently, I'm looking to collaborate on open-source projects. 
 
-Besides programming, I enjoy working out with my friends 🏃⛹️‍♂️🏋🏼‍♂️ , reading books 📖, and watching movies 🎥
+Besides programming, I enjoy working out with my friends 🏃⛹️‍♂️🏋🏼‍♂️ , reading books 📖, watching movies 🎥, and so forth.
 
 ---
 
