@@ -50,8 +50,8 @@ Besides programming, I enjoy working out with my friends 🏃⛹️‍♂️🏋
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&theme=react"/>
-  <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api?username=hougarry&title_color=9925be&text_color=2596be&bg_color=041014&show_icons=true&layout=compact&theme=react&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&bg_color=0D1117&title_color=FF6E40&text_color=c9d1d9"/>
+  <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api?username=hougarry&show_icons=true&bg_color=0D1117&title_color=FF6E40&text_color=c9d1d9&icon_color=FF6E40&include_all_commits=true"/>
 </P>
 
 ---
