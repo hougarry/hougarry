@@ -7,11 +7,11 @@
 
 
 
-I'm Gary 😉, a new beginner on  **Developer** and **Programmer** 👨🏻‍💻 . I'm an open-source professional, and I like to develop in Python.
- I am passionate about **Programming**, **Prompt_Engineer**, and **Fintech**. 
+I'm Gary 😉, a new beginner on  **Developer** and **Programmer** 👨‍💻 . I'm an open-source professional, and I like to develop in Python.
+ I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech💰**. 
 </br>
 Currently, I'm looking to collaborate on open-source projects. 
-Besides programming, I like working out with my friends 🏃⛹️‍♂️🏋🏼‍♂️ .
+Besides programming, I like working out with my friends 🏃⛹️‍♂️🏋🏼‍♂️ , reading books 📖, watching movies🎥
 </br>
 </br>
 </br>
@@ -27,10 +27,10 @@ Besides programming, I like working out with my friends 🏃⛹️‍♂️🏋�
 **Current Status Quo:**
 ----
 
-- 🔭 I’m currently working on <Programming>
-- 🌱 I’m currently learning <Java>
-- 👯 I’m looking to collaborate on <Fintech Application development>
-- 💬 Ask me about my areas
+- 🔭 I’m currently working on **Programming**
+- 🌱 I’m currently learning **Java**
+- 👯 I’m looking to collaborate on **Fintech Application development**
+- 💬 Ask me about my areas **Prompt_Engineer 🤖**, and **Fintech💰**. 
 - 📫 How to reach me: 
 <h2 align="left">Connect With Me:</h2>
 
