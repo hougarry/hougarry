@@ -1,18 +1,3 @@
-<!-- Apply a theme to the entire README file -->
-<style>
-  body {
-    background-color: #1F2937;
-    color: #D1D5DB;
-  }
-
-  h1, h2, h3 {
-    color: #FFFFFF;
-  }
-
-  /* Add more custom styles as needed */
-</style>
-
-
 ## About Me 👨‍💼
 
 > "Talk is cheap. Show me the code."
