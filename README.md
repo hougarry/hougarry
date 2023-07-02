@@ -1,40 +1,40 @@
 ### Hi there 👋
 
-> Talk is cheap. Show me the code.
->
-> -Linus Torvalds
+"Talk is cheap. Show me the code."
+-Linus Torvalds
 
+I'm Gary 😉, a new beginner on **Developer** and **Programmer** 👨‍💻 . I'm an open-source professional, and I like to develop in Python. I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech💰**. 
 
-
-
-I'm Gary 😉, a new beginner on  **Developer** and **Programmer** 👨‍💻 . I'm an open-source professional, and I like to develop in Python.
- I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech💰**. 
-</br>
 Currently, I'm looking to collaborate on open-source projects. 
-Besides programming, I like working out with my friends 🏃⛹️‍♂️🏋🏼‍♂️ , reading books 📖, watching movies🎥
-</br>
-</br>
-</br>
 
+Besides programming, I enjoy working out with my friends 🏃⛹️‍♂️🏋🏼‍♂️ , reading books 📖, and watching movies 🎥
 
+---
 
-**Skills:** Python, Java, C/C++, JavaScript
-</br>
-**Tools:** Git, Github, VS Code, Linux
-</br>
+**Skills:**
+- Python 
+- Java
+- C/C++
+- JavaScript
 
+**Tools:**
+- Git 
+- Github 
+- VS Code
+- Linux
+
+---
 
 **Current Status Quo:**
-----
 
 - 🔭 I’m currently working on **Programming**
 - 🌱 I’m currently learning **Java**
 - 👯 I’m looking to collaborate on **Fintech Application development**
 - 💬 Ask me about my areas **Prompt_Engineer 🤖**, and **Fintech💰**. 
-- 📫 How to reach me: 
-<h2 align="left">Connect With Me:</h2>
 
-<div align=center>
+---
+
+<h2 align="left">Connect With Me:</h2>
 
 [![Blog](https://img.shields.io/badge/Blog-00FFFF?style=for-the-badge&logo=blogger&logoColor=white)](https://www.garyhou2023.info/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hougarry)
@@ -43,44 +43,17 @@ Besides programming, I like working out with my friends 🏃⛹️‍♂️🏋�
 [![YouTube](https://img.shields.io/badge/YouTube-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@garryhou9639/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gary_Hou)
 
+---
 
-  
-</div>
-
-
------
-
- <br>
- <br>
- <p align="center">
+<p align="center">
   <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&theme=react"/>
- 
- 
   <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api?username=hougarry&title_color=9925be&text_color=2596be&bg_color=041014&show_icons=true&layout=compact&theme=react&include_all_commits=true"/>
-  </P><br>
-  
- 
- 
- 
-----------------
+</P>
 
-<div align=center>
+---
 
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
-</div>
 
+---
 
-
-
-
-
-
-
-
-
-
-
--->
-
-Open an issue in [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
+Need to chat? Open an issue in [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
