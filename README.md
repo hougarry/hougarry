@@ -4,7 +4,7 @@
 >
 > -Linus Torvalds
 
-![Hougarry's GitHub stats](https://github-readme-stats-one-jet-43.vercel.app/api?username=hougarry&title_color=9925be&text_color=2596be&bg_color=041014)
+
 
 
 I'm Gary 😉, a new beginner on  **Developer** and **Programmer** 👨🏻‍💻 . I'm an open-source professional, and I like to develop in Python.
@@ -24,6 +24,50 @@ Besides programming, I like working out with my friends 🏃⛹️‍♂️🏋�
 </br>
 
 
+**Current Status Quo:**
+----
+
+- 🔭 I’m currently working on <Programming>
+- 🌱 I’m currently learning <Java>
+- 👯 I’m looking to collaborate on <Fintech Application development>
+- 💬 Ask me about my areas
+- 📫 How to reach me: 
+<h2 align="left">Connect With Me:</h2>
+
+<div align=center>
+
+[![Blog](https://img.shields.io/badge/Blog-0077B5?style=for-the-badge&logo=/Blog&logoColor=white)](https://www.garyhou2023.info/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hougarry)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hougarry@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/garry02061)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mosthumayrakhanomrime)
+[![Telegram](https://img.shields.io/badge/Telegram-00CCBB.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Gary_Hou)
+
+  
+</div>
+
+
+-----
+
+ <br>
+ <br>
+ <p align="center">
+  <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&theme=react"/>
+ 
+ 
+  <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api?username=hougarry&title_color=9925be&text_color=2596be&bg_color=041014&show_icons=true&theme=react&include_all_commits=true"/>
+  </P><br>
+  
+ 
+ 
+ 
+----------------
+
+<div align=center>
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
 
 
 
@@ -31,14 +75,11 @@ Besides programming, I like working out with my friends 🏃⛹️‍♂️🏋�
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
 -->
 
 Open an issue in [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
