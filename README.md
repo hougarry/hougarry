@@ -37,15 +37,15 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 ---
 ## Contact Me ☎️
 
-
-
+<div align=center>
+  
 [![Blog](https://img.shields.io/badge/Blog-00FFFF?style=for-the-badge&logo=blogger&logoColor=white)](https://www.garyhou2023.info/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hougarry)
 ![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/garry02061)
 [![YouTube](https://img.shields.io/badge/YouTube-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@garryhou9639/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gary_Hou)
-
+</div>
 ---
 
 <p align="center">
@@ -56,9 +56,13 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 
 ---
 ##  Toe Be A PRO 👨‍🚒
-</br>
+
+<div align=center>
+
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
 
 ---
 ## Comment :💬
-Need to chat? Open an issue by click [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
+Need to chat? Open an issue by clicking [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
