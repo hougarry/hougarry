@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-"Talk is cheap. Show me the code."
--Linus Torvalds
+> "Talk is cheap. Show me the code."
+> -Linus Torvalds
 
 I'm Gary 😉, a new beginner on **Developer** and **Programmer** 👨‍💻 . I'm an open-source professional, and I like to develop in Python. I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech💰**. 
 
