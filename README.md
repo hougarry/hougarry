@@ -13,6 +13,17 @@ I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Finte
 </br>
 Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, playing🎮, traveling ✈️, and so forth.
 
+</br>
+
+</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats-one-jet-43.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&theme=react"/>
+  <img height="160" src="https://github-readme-stats-one-jet-43.vercel.app/api?username=hougarry&show_icons=true&theme=react&include_all_commits=true"/>
+</p>
+
+
+
+
 ---
 
 **Skills:**
@@ -47,13 +58,6 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 [![YouTube](https://img.shields.io/badge/YouTube-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@garryhou9639/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gary_Hou)
 </div>
-</br>
-
-</div>
-<p align="center">
-  <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&theme=react"/>
-  <img height="150" src="https://github-readme-stats-one-jet-43.vercel.app/api?username=hougarry&show_icons=true&theme=react&include_all_commits=true"/>
-</p>
 
 ---
 
