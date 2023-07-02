@@ -5,13 +5,13 @@
 
 Hello, I'm Gary 😃, AKA Gee. 
 </br>
-While my background lies in the **financial sector🏦💸👨‍💼**,
+While my background lies in the **financial sector👨‍💼**,
 </br>
 I have recently embarked on a new journey as a beginner in the field of **Programming** 👨‍💻.
 </br>
 I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech💰**. 
 </br>
-Besides programming, I enjoy working out with my friends 🏃⛹️‍♂️🏋🏼‍♂️ , reading books 📰📖, playing games📺🎮🎥, traveling around✈️🚅⛴️, and so forth.
+Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, playing🎮, traveling ✈️, and so forth.
 
 ---
 
