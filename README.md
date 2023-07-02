@@ -27,8 +27,6 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 - VS Code
 - Linux
 
----
-
 **Current Status Quo:**
 
 - 🔭 I’m currently working on [**Programming**]
@@ -56,7 +54,7 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 
 
 ---
-
+## The way to become a PRO of this Coding world!
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 
 ---
