@@ -3,15 +3,15 @@
 > "Talk is cheap. Show me the code."
 > -Linus Torvalds
 
-Hello, I'm Gary 😉,AKA-Gee. 
+Hello, I'm Gary 😃, AKA Gee. 
 </br>
-While my background lies in the **financial sector🏦💸👨‍💼**, I have recently embarked on a new journey as a beginner in the fields of **Development** and **Programming** 👨‍💻.
+While my background lies in the **financial sector🏦💸👨‍💼**,
 </br>
-I'm an open-source professional, and I like to develop in Python. I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech💰**. 
-
-Currently, I'm looking to collaborate on open-source projects. 
-
-Besides programming, I enjoy working out with my friends 🏃⛹️‍♂️🏋🏼‍♂️ , reading books 📖, watching movies 🎥, and so forth.
+I have recently embarked on a new journey as a beginner in the field of **Programming** 👨‍💻.
+</br>
+I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech💰**. 
+</br>
+Besides programming, I enjoy working out with my friends 🏃⛹️‍♂️🏋🏼‍♂️ , reading books 📰📖, playing games📺🎮🎥, traveling around✈️🚅⛴️, and so forth.
 
 ---
 
@@ -31,10 +31,10 @@ Besides programming, I enjoy working out with my friends 🏃⛹️‍♂️🏋
 
 **Current Status Quo:**
 
-- 🔭 I’m currently working on **Programming**
-- 🌱 I’m currently learning **Java**
-- 👯 I’m looking to collaborate on **Fintech Application development**
-- 💬 Ask me about my areas **Prompt_Engineer 🤖**, and **Fintech💰**. 
+- 🔭 I’m currently working on [**Programming**]
+- 🌱 I’m currently learning [**Java⌨️**]
+- 👯 I’m looking to collaborate on [**Fintech Application Projects**]
+- 💬 Ask me about my areas [**Prompt_Engineer 🤖**] [**Fintech💰**]. 
 
 ---
 
@@ -60,4 +60,4 @@ Besides programming, I enjoy working out with my friends 🏃⛹️‍♂️🏋
 
 ---
 
-Need to chat? Open an issue in [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
+Need to chat? Open an issue by click [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
