@@ -1,15 +1,30 @@
-## About me 👋
+<!-- Apply a theme to the entire README file -->
+<style>
+  body {
+    background-color: #1F2937;
+    color: #D1D5DB;
+  }
+
+  h1, h2, h3 {
+    color: #FFFFFF;
+  }
+
+  /* Add more custom styles as needed */
+</style>
+
+
+## About Me 👨‍💼
 
 > "Talk is cheap. Show me the code."
 > -Linus Torvalds
 
 Hello, I'm Gary 😃, AKA Gee. 
 </br>
-While my background lies in the **financial sector👨‍💼**,
+While my background lies in the **financial sector💸**,
 </br>
 I have recently embarked on a new journey as a beginner in the field of **Programming** 👨‍💻.
 </br>
-I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech💰**. 
+I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech👨‍💻**. 
 </br>
 Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, playing🎮, traveling ✈️, and so forth.
 
@@ -32,10 +47,10 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 - 🔭 I’m currently working on [**Programming**]
 - 🌱 I’m currently learning [**Java⌨️**]
 - 👯 I’m looking to collaborate on [**Fintech Application Projects**]
-- 💬 Ask me about my areas [**Prompt_Engineer 🤖**] [**Fintech💰**]. 
+- ❓ Ask me about my areas [**Prompt_Engineer 🤖**] [**Fintech💰**]. 
 
 ---
-## Contact me ☎️
+## Contact Me ☎️
 
 
 
@@ -55,9 +70,10 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 
 
 ---
-## To be A PRO !
+##  Toe Be A PRO 👨‍🚒
+</br>
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 
 ---
-
+## Comment :💬
 Need to chat? Open an issue by click [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
