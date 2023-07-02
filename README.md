@@ -1,4 +1,4 @@
-### Hi there 👋
+## About me 👋
 
 > "Talk is cheap. Show me the code."
 > -Linus Torvalds
@@ -35,8 +35,9 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 - 💬 Ask me about my areas [**Prompt_Engineer 🤖**] [**Fintech💰**]. 
 
 ---
+## Contact me ☎️
 
-<h2 align="left">Connect With Me:</h2>
+
 
 [![Blog](https://img.shields.io/badge/Blog-00FFFF?style=for-the-badge&logo=blogger&logoColor=white)](https://www.garyhou2023.info/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hougarry)
@@ -54,7 +55,7 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 
 
 ---
-## The way to become a PRO of this Coding world!
+## To be A PRO !
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
 
 ---
