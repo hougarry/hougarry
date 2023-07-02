@@ -1,4 +1,4 @@
-## About Me 👨‍💼
+## About Me  👨‍💼
 
 > "Talk is cheap. Show me the code."
 > -Linus Torvalds
@@ -20,8 +20,6 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
   <img height="160" src="https://github-readme-stats-one-jet-43.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&theme=react"/>
   <img height="160" src="https://github-readme-stats-one-jet-43.vercel.app/api?username=hougarry&show_icons=true&theme=react&include_all_commits=true"/>
 </p>
-
-
 
 
 ---
@@ -47,7 +45,7 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 
 ---
 
-## Contact Me ☎️
+## Contact Me  ☎️
 
 <div align=center>
   
@@ -63,7 +61,7 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 
 
 ---
-##  To Be A PRO 👨‍🚒
+##  To Be A PRO  👨‍🚒
 
 <div align=center>
 
@@ -72,5 +70,5 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 </div>
 
 ---
-## Comment :💬
+## Comments  💬
 Need to chat? Open an issue by clicking [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
