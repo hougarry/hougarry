@@ -76,3 +76,6 @@ Need to chat? Open an issue by clicking [here](https://github.com/hougarry/Gitta
 
 
 [![Readme Card](https://github-readme-stats-one-jet-43.vercel.app/api/pin/?username=hougarry&repo=Games_learn_Java_Python)](https://github.com/hougarry/Games_learn_Java_Python)
+[![Readme Card](https://github-readme-stats-one-jet-43.vercel.app/api/pin/?username=hougarry&repo=freeCodeCamp)](https://github.com/hougarry/freeCodeCamp)
+
+
