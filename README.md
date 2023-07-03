@@ -73,3 +73,6 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 ---
 ## Comments  💬
 Need to chat? Open an issue by clicking [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
+
+
+[![Readme Card](https://github-readme-stats-one-jet-43.vercel.app/api/pin/?username=hougarry&repo=Games_learn_Java_Python)](https://github.com/anuraghazra/Games_learn_Java_Python)
