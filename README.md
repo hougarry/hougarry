@@ -1,25 +1,19 @@
 ## About Me  👨‍💼
 
-<style>
-    .typing-svg {
-        color: black;
-    }
-</style>
 
 <p align="center">
-    <a href="https://github.com/drkostas">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gary%2C+Hou%2C+Coder%2C+Financial+analyst%2C+prompt+engineer%2C+programming%2C+prompt+design" alt="Typing SVG" class="typing-svg" />
+    <a href="https://github.com/drkostas" style="color: black;">
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gary%2C+Hou|%2C+Coder%2C+Financial+analyst%2C+Prompt+engineer |%2C+programming%2C+prompt+design" alt="Typing SVG" />
     </a>
 </p>
+
 <details>
     <summary style="color: #3498db;">📈 Stats</summary>
     <br>
     My Github Stats
 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=solarized_dark" alt="Profile Details" />
-
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=solarized_dark" alt="Repos per Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=solarized_dark" alt="Most Commit Language" />
+   ![GitHub Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula)
+   
 </details>
 
 
