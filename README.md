@@ -3,7 +3,7 @@
 
 <p align="center">
     <a href="https://github.com/drkostas" style="color: black;">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gary%2C+Hou|%2C+Coder%2C+Financial+analyst%2C+Prompt+engineer |%2C+programming%2C+prompt+design" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gary%2C+Hou|%2C; Coder%2C+Financial+analyst%2C+Prompt+engineer |%2C; programming%2C+prompt+design" alt="Typing SVG" />
     </a>
 </p>
 
@@ -15,6 +15,17 @@
    ![GitHub Info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula)
    
 </details>
+
+
+
+<details style="text-align: center;">
+    <summary style="color: #3498db; font-size: 18px;">📈 Stats</summary>
+    <br>
+    <div style="display: flex; justify-content: center;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="max-width: 100%;" />
+    </div>
+</details>
+
 
 
 
