@@ -18,7 +18,7 @@ I have recently embarked on a new journey as a beginner in the field of **Progra
 </br>
 I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech👨‍💻**. 
 </br>
-Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, playing🎮, traveling ✈️, and so forth.
+Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, playing🎮, traveling ✈️, and so forth..
 
 </br>
 
