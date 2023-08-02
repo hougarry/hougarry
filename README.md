@@ -8,7 +8,7 @@
 
 
 > "Talk is cheap. Show me the code."
-> -Linus Torvalds
+> -Linux Torvalds
 
 Hello, I'm Gary 😃, AKA Gee. 
 </br>
