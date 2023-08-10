@@ -73,7 +73,7 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
   
 [![Blog](https://img.shields.io/badge/Blog-00FFFF?style=for-the-badge&logo=blogger&logoColor=white)](https://www.garyhou2023.info/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hougarry)
-![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hougarry@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/garry02061)
 [![YouTube](https://img.shields.io/badge/YouTube-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@garryhou9639/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gary_Hou)
@@ -82,26 +82,6 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 </br>
 </br>
 
-<div align="center">
-  <a href="https://www.garyhou2023.info/">
-    <img src="https://img.shields.io/badge/Blog-00FFFF?style=for-the-badge&logo=blogger&logoColor=white" alt="✨ Dive into My Mind ✨">
-  </a>
-  <a href="https://github.com/hougarry">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="🌟 My Code Sanctuary 🌟">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="💌 Ping Me, Maybe? 💌">
-  </a>
-  <a href="https://twitter.com/garry02061">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="🐦 Chirping Thoughts 🐦">
-  </a>
-  <a href="https://www.youtube.com/@garryhou9639/">
-    <img src="https://img.shields.io/badge/YouTube-C4302B?style=for-the-badge&logo=youtube&logoColor=white" alt="🎥 My Digital Playground 🎥">
-  </a>
-  <a href="https://t.me/Gary_Hou">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="💬 Ping Me Anytime 💬">
-  </a>
-</div>
 
 
 ## Comments  💬
