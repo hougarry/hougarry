@@ -7,8 +7,8 @@
 </p>
 
 
-> "Talk is cheap. Show me the code."
-> -Linux Torvalds
+> "Talk is cheap. I'll show you my github!"
+
 
 Hello, I'm Gary 😃, AKA Gee. 
 </br>
