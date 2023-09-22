@@ -7,11 +7,17 @@
 </p>
 
 
->  def programming():
+> def programming():
 > 
->    programming = "Projects" + "gradually" + "master"
+>    programming = "Projects + gradually = master"
 > 
->  return programming 
+>    return programming
+
+> result = programming()
+
+> print(result)
+
+
 
 
 Hello, I'm Gary 😃, AKA Gee. 
