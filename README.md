@@ -7,9 +7,9 @@
 </p>
 
 
-> "def programming():
-    programming = "Projects" + "gradually" + "master"
-    return programming "
+>  def programming():
+>    programming = "Projects" + "gradually" + "master"
+>  return programming 
 
 
 Hello, I'm Gary 😃, AKA Gee. 
