@@ -50,30 +50,11 @@ Tools:
     </div>
 </details>
 
-## Contact Me  ☎️
 
-<div align=center>
-  
-[![Blog](https://img.shields.io/badge/Blog-00FFFF?style=for-the-badge&logo=blogger&logoColor=white)](https://www.garyhou2023.info/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hougarry)
-[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hougarry@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gary_Hou)
-</div>
-
-
-##  To Be A PRO  👨‍🚒
-
-<div align=center>
-
-![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
-  
-</div>
-
----
 ## Pins
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hougarry&repo=chatgpt-advanced-prompts)](https://github.com/hougarry/chatgpt-advanced-prompts)
-[![Readme Card](https://github-readme-stats-one-jet-43.vercel.app/api/pin/?username=hougarry&repo=FreeCodeCamp-Notes)](https://github.com/hougarry/FreeCodeCamp-Notes)
+[![Readme Card](https://github-readme-stats-one-jet-43.vercel.app/api/pin/?username=hougarry&repo=Mr.G-Your-AI-English-all-language-Tutor)](https://github.com/hougarry/Mr.G-Your-AI-English-all-language-Tutor)
 
 
