@@ -16,25 +16,16 @@
 >
 > print(result)
 
-
-
-
 Hello, I'm Gary 😃, AKA Gee. 
-</br>
-While my background lies in the **financial sector💸**,
-</br>
-I have recently embarked on a new journey as a beginner in the field of **Programming** 👨‍💻.
-</br>
-I am passionate about **Programming💻**, **Prompt_Engineer 🤖**, and **Fintech👨‍💻**. 
-</br>
-Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, playing🎮, traveling ✈️, and so forth..
 
-</br>
+While my background lies in the **financial sector💸**, I aspire to become a full-stack developer.
+
+My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
 
 </div>
 <p align="center">
-  <img height="160" src="https://github-readme-stats-one-jet-43.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&theme=react"/>
-  <img height="160" src="https://github-readme-stats-one-jet-43.vercel.app/api?username=hougarry&show_icons=true&theme=react&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&theme=react"/>
+  <img height="160" src="https:/github-readme-stats.vercel.app/api?username=hougarry&show_icons=true&theme=react&include_all_commits=true"/>
 </p>
 
 
@@ -48,22 +39,11 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 
 **Tools:**
 
-
-![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat-square&logo=Apple&logoColor=white)
-![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
-
-
-**Current Status Quo:**
-
-- 🔭 I’m currently working on [**Programming**]
-- 🌱 I’m currently learning [**Java⌨️**]
-- 👯 I’m looking to collaborate on [**Fintech Application Projects**]
-- ❓ Ask me about my areas [**Prompt_Engineer 🤖**] [**Fintech💰**]. 
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 
 <details style="text-align: center;">
@@ -74,8 +54,6 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
     </div>
 </details>
 
----
-
 ## Contact Me  ☎️
 
 <div align=center>
@@ -83,14 +61,8 @@ Besides programming, I enjoy working out🏋🏼‍♂️, reading🖥📖, play
 [![Blog](https://img.shields.io/badge/Blog-00FFFF?style=for-the-badge&logo=blogger&logoColor=white)](https://www.garyhou2023.info/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hougarry)
 [![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hougarry@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/garry02061)
-[![YouTube](https://img.shields.io/badge/YouTube-C4302B?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@garryhou9639/)
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gary_Hou)
 </div>
-
-</br>
-</br>
-
 
 
 ## Comments  💬
@@ -111,7 +83,7 @@ Need to chat? Open an issue by clicking [here](https://github.com/hougarry/Gitta
 ## Pins
 </br>
 
-[![Readme Card](https://github-readme-stats-one-jet-43.vercel.app/api/pin/?username=hougarry&repo=Games_learn_Java_Python)](https://github.com/hougarry/Games_learn_Java_Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hougarry&repo=Games_learn_Java_Python)](https://github.com/hougarry/Games_learn_Java_Python)
 [![Readme Card](https://github-readme-stats-one-jet-43.vercel.app/api/pin/?username=hougarry&repo=freeCodeCamp)](https://github.com/hougarry/freeCodeCamp)
 
 
