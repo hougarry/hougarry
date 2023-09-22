@@ -12,9 +12,8 @@
 >    programming = "Projects + gradually = master"
 > 
 >    return programming
-
 > result = programming()
-
+>
 > print(result)
 
 
