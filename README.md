@@ -2,12 +2,14 @@
 
 <p align="center">
     <a href="https://github.com/drkostas" style="color: black;">
-        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gary%2C+Hou%2C; Programming%2C+Financial+analyst%2C+Prompt+engineer %2C;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gary%2C; Programming%2C+Financial-analyst%2C+Prompts-Fans %2C;" alt="Typing SVG" />
     </a>
 </p>
 
 
-> "Talk is cheap. I'll show you my github!"
+> "def programming():
+    programming = "Projects" + "gradually" + "master"
+    return programming "
 
 
 Hello, I'm Gary 😃, AKA Gee. 
