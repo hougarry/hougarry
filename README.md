@@ -1,11 +1,8 @@
-## About Me  👨‍💼
-
 <p align="center">
     <a href="https://github.com/drkostas" style="color: black;">
         <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gary%2C; Programming%2C+Financial-analyst%2C+Prompts-Fans %2C;" alt="Typing SVG" />
     </a>
 </p>
-
 
 > def programming():
 > 
@@ -25,19 +22,18 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
 </div>
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&layout=compact&hide=html&theme=react"/>
-  <img height="160" src="https:/github-readme-stats.vercel.app/api?username=hougarry&show_icons=true&theme=react&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hougarry&show_icons=true&theme=react&include_all_commits=true"/>
 </p>
 
 
 ---
 
-**Skills:**
+Skills:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) ![](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Spring-grey?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js&logoColor=white) 
 
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/) ![](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Spring-grey?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js&logoColor=white) 
-
-
-**Tools:**
+Tools:
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
@@ -64,12 +60,6 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gary_Hou)
 </div>
 
-
-## Comments  💬
-Need to chat? Open an issue by clicking [here](https://github.com/hougarry/Gittalk_comments/issues/new) for any conversation/advice. 
-
-
----
 
 ##  To Be A PRO  👨‍🚒
 
