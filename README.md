@@ -26,13 +26,9 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=hougarry&show_icons=true&theme=react&include_all_commits=true"/>
 </p>
 
-
----
-
 Skills:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) ![](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Spring-grey?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vue.js&logoColor=white) 
-
 
 Tools:
 
