@@ -16,7 +16,7 @@
 
 Hello, I'm Gary 😃, AKA Gee. 
 
-While my background lies in the **financial sector💸**, I aspire to become a full-stack developer.
+While my background lies in the **financial sector💸**, I aspire to become a Full-Stack Developer.
 
 My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
 
