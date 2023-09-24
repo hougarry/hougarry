@@ -52,6 +52,6 @@ Tools:
 </br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hougarry&repo=chatgpt-advanced-prompts)](https://github.com/hougarry/chatgpt-advanced-prompts)
-[![Readme Card](https://github-readme-stats-one-jet-43.vercel.app/api/pin/?username=hougarry&repo=Mr.G-Your-AI-English-all-language-Tutor)](https://github.com/hougarry/Mr.G-Your-AI-English-all-language-Tutor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hougarry&repo=Mr.G-Your-AI-English-all-language-Tutor)](https://github.com/hougarry/Mr.G-Your-AI-English-all-language-Tutor)
 
 
