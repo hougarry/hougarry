@@ -14,7 +14,9 @@
 >
 >     print(result)
 
-Hello, I'm Gary 😃, AKA Gee. ![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic)
+![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic)
+
+Hello, I'm Gary 😃, AKA Gee. 
 
 While my background lies in the **financial sector💸**, I aspire to become a **Full-Stack Developer**.
 
