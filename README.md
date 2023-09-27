@@ -29,9 +29,10 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
 </p>
 
 
-<details style="text-align: center;">
+<details style="text-align: center; margin: 0 auto;">
 <summary style="color: #3498db; font-size: 18px;">📈 Stats</summary>
 <br>
+    
 <div style="display: flex; justify-content: center;">
     <div style="margin: 0 auto;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; max-width: 100%;" />
