@@ -25,11 +25,11 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
 </div>
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=hougarry&&layout=compact&hide=html&theme=react"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&show_icons=true&theme=react&include_all_commits=truea&layout=compact"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&show_icons=true&theme=react&include_all_commits=truea&layout=compacta&langs_count=8"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 
 
 <details style="text-align: center; margin: 0 auto;">
