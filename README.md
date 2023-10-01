@@ -25,7 +25,7 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
 </div>
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=hougarry&layout=compact&hide=html&theme=react"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&theme=react&langs_count=8"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&theme=react&layout=compact"/>
 </p>
 
 
