@@ -17,13 +17,13 @@
 ![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic) 
 
 
-<p align='center'>
-Hello, I'm Gary 😃, AKA Gee. 
+<div align='center'>
+        Hello, I'm Gary 😃, AKA Gee. 
 
-While my background lies in the **financial sector💸**, I aspire to become a **Full-Stack Developer**.
+        While my background lies in the **financial sector💸**, I aspire to become a **Full-Stack Developer**.
 
-My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
-</p>
+        My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
+</div>
 
 <div align="center">
   <img height="160"  src="https://github-readme-stats.vercel.app/api?username=hougarry&layout=compact&hide=html&theme=react"/>
