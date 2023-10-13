@@ -18,7 +18,7 @@
 
 Hello, I'm Gary 😃, AKA Gee. 
 
-While my past background primaryly lied in the **financial sector💸**, I aspire to become a **Back-end & Python Developer**.
+While my past background partly lied in the financial sector💸, I aspire to become a **Back-end & Python Developer**.
 
 My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
 
