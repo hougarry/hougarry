@@ -1,10 +1,7 @@
-<p align="center">
-    <a href="https://github.com/drkostas" style="color: black;">
+<section >
+        <a href="https://github.com/drkostas" style="color: purple;" align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Programming%2C+Financial-analyst%2C+Prompts-Fans %2C;" alt="Typing SVG" />
     </a>
-</p>
-<section >
-    
 >     def programming():
 > 
 >            programming = "Projects + gradually = master"
