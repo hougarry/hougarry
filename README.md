@@ -16,49 +16,26 @@
 
 ![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic) 
 
+Hello, I'm Gary 😃, AKA Gee. 
 
-<p align='center'>
-        Hello, I'm Gary 😃, AKA Gee. 
-        While my past background primaryly lied in the **financial sector💸**, I aspire to become a **Back-end & Python Developer**.
-        My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
-</p>
+While my past background primaryly lied in the **financial sector💸**, I aspire to become a **Back-end & Python Developer**.
+
+My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
+
 
 <div align="center">
   <img height="160"  src="https://github-readme-stats.vercel.app/api?username=hougarry&layout=compact&hide=html&theme=react"/>
   <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&theme=react&layout=compact"/>
 </div>
 
-## Projects
+## Commits hisory
 
-The following are my commits records and projects
-
+The following are my commits records.
 
 <div>
     <img height="100" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; " />
 </div>
 
-### Front-end
-
-| Project     | Tech Stack | Live Demo           | Resources            |
-| ----------- | ---------- | ------------------- | --------------------- |
-| Project 1   | Stack 1    | [Demo 1](link1)     | [Resources 1](link1) |
-| Project 2   | Stack 2    | [Demo 2](link2)     | [Resources 2](link2) |
-| Project 3   | Stack 3    | [Demo 3](link3)     | [Resources 3](link3) |
-
-### back-end
-| Project     | Tech Stack | Live Demo           | Resources            |
-| ----------- | ---------- | ------------------- | --------------------- |
-| Project 1   | Stack 1    | [Demo 1](link1)     | [Resources 1](link1) |
-| Project 2   | Stack 2    | [Demo 2](link2)     | [Resources 2](link2) |
-| Project 3   | Stack 3    | [Demo 3](link3)     | [Resources 3](link3) |
-
-### Full-Stack
-
-| Project     | Tech Stack | Live Demo           | Resources            |
-| ----------- | ---------- | ------------------- | --------------------- |
-| Project 1   | Stack 1    | [Demo 1](link1)     | [Resources 1](link1) |
-| Project 2   | Stack 2    | [Demo 2](link2)     | [Resources 2](link2) |
-| Project 3   | Stack 3    | [Demo 3](link3)     | [Resources 3](link3) |
 
 ## Pins
 </br>
