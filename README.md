@@ -40,7 +40,10 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
 ## Pins
 
 <div align="center">
+        
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hougarry&repo=chatgpt-advanced-prompts)](https://github.com/hougarry/chatgpt-advanced-prompts)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hougarry&repo=Mr.G-Your-AI-English-all-language-Tutor)](https://github.com/hougarry/Mr.G-Your-AI-English-all-language-Tutor)
+
 </div>
 
