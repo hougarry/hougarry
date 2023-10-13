@@ -25,8 +25,8 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
 </div>
 
 <p align="center">
-  <img height="160" width="300" src="https://github-readme-stats.vercel.app/api?username=hougarry&layout=compact&hide=html&theme=react"/>
-  <img height="160" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&theme=react&layout=compact"/>
+  <img height="160"  src="https://github-readme-stats.vercel.app/api?username=hougarry&layout=compact&hide=html&theme=react"/>
+  <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&theme=react&layout=compact"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; max-width: 100%;" height="160" width="600" />
 </p>
 
