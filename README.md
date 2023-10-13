@@ -33,7 +33,7 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
 
 
 <div align="center">
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; " />
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; " />
 </div>
 
 
