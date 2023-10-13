@@ -28,12 +28,12 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
   <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&theme=react&layout=compact"/>
 </div>
 
-## Commits hisory
+## Commits 
 
-The following are my commits records.
 
-<div>
-    <img height="100" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; " />
+
+<div align="center">
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; " />
 </div>
 
 
