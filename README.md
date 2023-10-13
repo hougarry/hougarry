@@ -22,30 +22,29 @@ While my background lies in the **financial sector💸**, I aspire to become a *
 
 My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
 
-</div>
 
+<div>
 <p align="center">
   <img height="160"  src="https://github-readme-stats.vercel.app/api?username=hougarry&layout=compact&hide=html&theme=react"/>
   <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&theme=react&layout=compact"/>
-  <img height="160"  width="1200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; " />
 </p>
-
-
-
-
-
-<details style="text-align: center; margin: 0 auto;">
-<summary style="color: #3498db; font-size: 18px;">📈 Stats</summary>
-<br>
-    
-<div style="display: flex; justify-content: center;">
-    <div style="margin: 0 auto;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; max-width: 100%;" />
 </div>
 
+<div>
+    <img height="160"  width="1200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; " />
+    <p align='center'>
+        <h2>Here are my projects</h2>
+
+    ## Projects
+
+| Project     | Tech Stack | Live Demo           | Resources            |
+| ----------- | ---------- | ------------------- | --------------------- |
+| Project 1   | Stack 1    | [Demo 1](link1)     | [Resources 1](link1) |
+| Project 2   | Stack 2    | [Demo 2](link2)     | [Resources 2](link2) |
+| Project 3   | Stack 3    | [Demo 3](link3)     | [Resources 3](link3) |
+    </p>
 </div>
 
-</details>
 
 
 ## Pins
