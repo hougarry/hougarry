@@ -1,16 +1,17 @@
 <a href="https://github.com/drkostas" style="color: purple;" align="center">
-        <img height='20' src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Programming%2C+Financial-analyst%2C+Prompts-Fans %2C;" alt="Typing SVG" />
+        <img height='100' src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Programming%2C+Financial-analyst%2C+Prompts-Fans %2C;" alt="Typing SVG" />
 </a>
 
-                >     def programming():
-                > 
-                >            programming = "Projects + gradually = master"
-                > 
-                >            return programming
-                >
-                >         result = programming()
-                >
-                >     print(result)
+
+>     def programming():
+> 
+>            programming = "Projects + gradually = master"
+> 
+>            return programming
+>
+>         result = programming()
+>
+>     print(result)
 
 
 ![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic) 
