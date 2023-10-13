@@ -1,8 +1,12 @@
+
+![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic)
+
 <header>
+        
         <a href="https://github.com/drkostas" style="color: purple;" align="center">
                 <img height='20' src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Programming%2C+Financial-analyst%2C+Prompts-Fans %2C;" alt="Typing SVG" />
         </a>
-        
+        <span>
                 >     def programming():
                 > 
                 >            programming = "Projects + gradually = master"
@@ -12,11 +16,10 @@
                 >         result = programming()
                 >
                 >     print(result)
-        
-
+        </span>
 </header>
 
-![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic)
+
 
 Hello, I'm Gary 😃, AKA Gee. 
 
