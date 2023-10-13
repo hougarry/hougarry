@@ -1,5 +1,5 @@
 <a href="https://github.com/drkostas" style="color: purple;" align="center">
-        <img height='100' src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Programming%2C+Financial-analyst%2C+Prompts-Fans %2C;" alt="Typing SVG" />
+        <img height='60' src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Programming%2C+Financial-analyst%2C+Prompts-Fans %2C;" alt="Typing SVG" />
 </a>
 
 
@@ -16,18 +16,18 @@
 
 ![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic) 
 
+
+<p align='center'>
 Hello, I'm Gary 😃, AKA Gee. 
 
 While my background lies in the **financial sector💸**, I aspire to become a **Full-Stack Developer**.
 
 My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
+</p>
 
-
-<div>
-<p align="center">
+<div align="center">
   <img height="160"  src="https://github-readme-stats.vercel.app/api?username=hougarry&layout=compact&hide=html&theme=react"/>
   <img height="160"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hougarry&theme=react&layout=compact"/>
-</p>
 </div>
 
 ## Projects
