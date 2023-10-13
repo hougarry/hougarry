@@ -17,13 +17,11 @@
 ![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic) 
 
 
-<div align='center'>
+<p align='center'>
         Hello, I'm Gary 😃, AKA Gee. 
-
-        While my background lies in the **financial sector💸**, I aspire to become a **Full-Stack Developer**.
-
+        While my past background primaryly lied in the **financial sector💸**, I aspire to become a **Back-end & Python Developer**.
         My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
-</div>
+</p>
 
 <div align="center">
   <img height="160"  src="https://github-readme-stats.vercel.app/api?username=hougarry&layout=compact&hide=html&theme=react"/>
@@ -31,20 +29,36 @@
 </div>
 
 ## Projects
+
+The following are my commits records and projects
+
+
 <div>
-    <img height="160"  width="1200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; " />
-    <p align='center'>
-        <h2>Here are my projects</h2>
+    <img height="100" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hougarry&theme=dracula" alt="GitHub Info" style="display: inline-block; " />
+</div>
+
+### Front-end
 
 | Project     | Tech Stack | Live Demo           | Resources            |
 | ----------- | ---------- | ------------------- | --------------------- |
 | Project 1   | Stack 1    | [Demo 1](link1)     | [Resources 1](link1) |
 | Project 2   | Stack 2    | [Demo 2](link2)     | [Resources 2](link2) |
 | Project 3   | Stack 3    | [Demo 3](link3)     | [Resources 3](link3) |
-    </p>
-</div>
 
+### back-end
+| Project     | Tech Stack | Live Demo           | Resources            |
+| ----------- | ---------- | ------------------- | --------------------- |
+| Project 1   | Stack 1    | [Demo 1](link1)     | [Resources 1](link1) |
+| Project 2   | Stack 2    | [Demo 2](link2)     | [Resources 2](link2) |
+| Project 3   | Stack 3    | [Demo 3](link3)     | [Resources 3](link3) |
 
+### Full-Stack
+
+| Project     | Tech Stack | Live Demo           | Resources            |
+| ----------- | ---------- | ------------------- | --------------------- |
+| Project 1   | Stack 1    | [Demo 1](link1)     | [Resources 1](link1) |
+| Project 2   | Stack 2    | [Demo 2](link2)     | [Resources 2](link2) |
+| Project 3   | Stack 3    | [Demo 3](link3)     | [Resources 3](link3) |
 
 ## Pins
 </br>
