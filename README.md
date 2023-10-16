@@ -1,5 +1,5 @@
 <a href="https://github.com/drkostas" style="color: purple;" align="center">
-        <img height='60' src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=A-Crazy-Coder%2C+Code-Smarter%2+Code-Faster%2;" alt="Typing SVG" />
+        <img height='60' src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=A-Crazy-Coder%2C+Code Smarter; Code Faster%2;" alt="Typing SVG" />
 </a>
 
 
