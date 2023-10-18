@@ -37,7 +37,7 @@ My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fint
 </div>
 
 
-## Pins
+## Projects-Hub
 
 <div align="center">
         
