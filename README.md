@@ -16,11 +16,10 @@
 
 ![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic) 
 
-Hello, I'm Gary 😃, AKA Gee. 
 
-While my past background partly lied in the financial sector💸, I aspire to become a **Back-end & Python Developer**.
+ **Back-end & Python Developer**.
 
-My interests revolve around **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
+ **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
 
 
 <div align="center">
