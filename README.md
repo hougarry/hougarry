@@ -3,23 +3,11 @@
 </a>
 
 
->     def programming():
-> 
->            programming = "Projects + gradually = master"
-> 
->            return programming
->
->         result = programming()
->
->     print(result)
 
 
 ![](https://komarev.com/ghpvc/?username=hougarry&color=blue&style=plastic) 
 
 
- **Back-end & Python Developer**.
-
- **Web-Dev💻**, **Prompt_Engineer🤖**, and **Fintech👨‍💻** projects. 
 
 
 <div align="center">
